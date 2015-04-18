@@ -1,0 +1,13 @@
+@charset "utf-8";
+#heading {
+	color: #CCC;
+}
+.heading td strong {
+	color: #C0C0C0;
+}
+.heading a {
+	color: #C0C0C0;
+}
+.tagline {
+	color: #FDBE79;
+}
